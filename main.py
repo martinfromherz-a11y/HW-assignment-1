@@ -34,3 +34,4 @@ print(f"Gas Boiler:       {gas_annual_cost(heat_demand, gas_price_fixed, gas_pri
                     gas_boiler_service, interest_rate, observation_period) * observation_period:.2f}")
 
 print("\nDistrict is the cheaper heating option for the considered example !")
+def bad():print("fail")
